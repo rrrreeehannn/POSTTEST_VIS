@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POSTTEST_VIS\\POSTTEST_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C151837C-AB8E-4A8A-A17E-F97B18F94696}|POSTTEST_2\\POSTTEST_2.vbproj|d:\\posttest_vis\\posttest_2\\posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C151837C-AB8E-4A8A-A17E-F97B18F94696}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151837C-AB8E-4A8A-A17E-F97B18F94696}|POSTTEST_2\\POSTTEST_2.vbproj|d:\\posttest_vis\\posttest_2\\posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C151837C-AB8E-4A8A-A17E-F97B18F94696}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST_2\\Form1.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
+              "RelativeToolTip": "POSTTEST_2\\Form1.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-05T13:54:50.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST_2\\Form1.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb [Design]",
+              "RelativeToolTip": "POSTTEST_2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-05T13:51:38.954Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
